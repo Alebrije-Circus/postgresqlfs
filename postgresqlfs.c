@@ -1,7 +1,7 @@
 #include "debug.h"
 #include "path.h"
 #include "query.h"
-#include "strlcpy.h"
+//#include "strlcpy.h"
 
 #include <errno.h>
 #include <stdarg.h>
