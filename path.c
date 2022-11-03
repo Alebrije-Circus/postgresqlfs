@@ -1,6 +1,6 @@
 #include "path.h"
 
-#include "strlcpy.h"
+//#include "strlcpy.h"
 
 #include <errno.h>
 #include <limits.h>
